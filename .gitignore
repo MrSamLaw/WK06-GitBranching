@@ -1,4 +1,6 @@
 .htaccess
+.DS_Store
+.vscode
 /config.php
 admin/config.php
 
